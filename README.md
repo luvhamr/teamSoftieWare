@@ -69,6 +69,12 @@ To use this project, you need to have the following prerequisites:
 
    Please refer to the code for more details on how this process is implemented.
 
-## Author
+## Author(s)
 
-  - nicholaslewis3452@gmail.com
+  - Ian Andersen
+  - Nick Lewis
+  - Byron Saylor
+  - Yasmin Panah
+  - Evan Brizendine
+  - Gavin Garcia
+  
